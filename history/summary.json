@@ -4,7 +4,7 @@
     "url": "https://vvsevolodovich.dev",
     "icon": "https://icons.duckduckgo.com/ip3/vvsevolodovich.dev.ico",
     "slug": "vladimir-ivanov-dev-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 895,
     "timeYear": 891,
     "dailyMinutesDown": {
+      "2023-08-08": 0,
       "2023-04-06": 532,
       "2023-04-05": 1440,
       "2023-04-04": 405,
