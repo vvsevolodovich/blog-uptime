@@ -6,17 +6,17 @@
     "slug": "vladimir-ivanov-dev-blog",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "72.34%",
-    "uptimeWeek": "72.84%",
-    "uptimeMonth": "91.42%",
+    "uptimeDay": "73.78%",
+    "uptimeWeek": "74.18%",
+    "uptimeMonth": "91.37%",
     "uptimeYear": "99.28%",
     "time": 835,
-    "timeDay": 692,
+    "timeDay": 698,
     "timeWeek": 763,
     "timeMonth": 855,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2024-10-17": 398,
+      "2024-10-17": 385,
       "2024-10-16": 416,
       "2024-10-15": 248,
       "2024-10-14": 413,
@@ -25,7 +25,7 @@
       "2024-10-11": 396,
       "2024-10-10": 472,
       "2024-10-09": 287,
-      "2024-10-08": 280
+      "2024-10-08": 315
     }
   }
 ]
