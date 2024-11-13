@@ -4,16 +4,16 @@
     "url": "https://vvsevolodovich.dev",
     "icon": "https://icons.duckduckgo.com/ip3/vvsevolodovich.dev.ico",
     "slug": "vladimir-ivanov-dev-blog",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "82.61%",
-    "uptimeWeek": "76.02%",
-    "uptimeMonth": "91.27%",
-    "uptimeYear": "99.27%",
-    "time": 822,
-    "timeDay": 674,
-    "timeWeek": 735,
-    "timeMonth": 787,
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "85.57%",
+    "uptimeWeek": "76.45%",
+    "uptimeMonth": "91.32%",
+    "uptimeYear": "99.28%",
+    "time": 821,
+    "timeDay": 670,
+    "timeWeek": 733,
+    "timeMonth": 786,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2024-11-13": 51,
@@ -28,7 +28,7 @@
       "2024-11-04": 34,
       "2024-11-03": 481,
       "2024-11-02": 388,
-      "2024-11-01": 46
+      "2024-11-01": 23
     }
   }
 ]
